@@ -5,3 +5,5 @@ This sample illustrates asynchronous push of multiple messages from server-side 
 Client html is under /websocket-stomp-client ; can be run from browser
 
 For server, run the Spring application (also includes client web page)
+
+The server sends 3 messages at 2 second interval
